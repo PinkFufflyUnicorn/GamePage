@@ -115,7 +115,7 @@ int randomNum;
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-
+//yhugbyugbygb
     private void OddButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_OddButtonActionPerformed
             count =count+1;
             int num =Integer.parseInt(NumberValue.getText());
